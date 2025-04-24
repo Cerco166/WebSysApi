@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "Clarence Cerco",
+    "email": "cercoclarence68@gmail.com",
+    "phone": "0953-132-4741",
+    "address": {
+        "street": "Langaray street",
+        "city": "Caloocan City",
+        "state": "Philippines",
+        "zip": "2004"
+    },
+    "company": {
+        "name": "Tech Solutions",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+}
