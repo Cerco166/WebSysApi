@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Acer Swift 14 AI (Intel Ultra)",
+        "cpu": "Intel Core Ultra 7 256V processor",
+        "ram": "Up to 32GB LPDDR5X",
+        "storage": "Up to 2TB PCIe Gen 4.0 SSD",
+        "gpu": "Intel Arc Graphics 140V"
+    },
+
+    {
+        "id": 2,
+        "name": "ASUS P1511(11th Gen Intel)",
+        "cpu": "Intel Core i3-1115G4 (3.0 GHz, up to 4.1 GHz, 2 cores)",
+        "ram": "8GB DDR4",
+        "storage": "256GB NVMe M.2 SSD",
+        "gpu": "Intel UHD Graphics"
+    },
+
+    {
+        "id": 3,
+        "name": "Dell XPS 14 (9440)",
+        "cpu": "Intel Core Ultra 7 155H processor",
+        "ram": "Up to 32GB LPDDR5X",
+        "storage": "Up to 4TB PCIe Gen 4 SSD",
+        "gpu": "NVIDIA GeForce RTX 4050 (Laptop)"
+    }
+]
